@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Anukul Kumar 👋
 
-<!--
-**anukulsahu/anukulsahu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- 🎓 MCA Graduate from Banaras Hindu University (2024)
+- 💻 Full-stack Developer | Proficient in Java, Python, and Web Development
+- 🌱 Currently learning Django framework of Python
+- 🔍 Looking for opportunities in software development
 
-Here are some ideas to get you started:
+## Skills
+- **Languages:** Java, Python, JavaScript
+- **Frameworks:** Spring Boot, Django
+- **Databases:** MySQL, MongoDB, SQLite
+- **Tools:** Git, Docker, VS Code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Connect With Me
+- [LinkedIn](https://linkedin.com/in/anukulkumar)
+- [Email](mailto:anukul6565@gmail.com)
+- [Leetcode](https://leetcode.com/u/anukulsahu/)
+
