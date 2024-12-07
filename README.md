@@ -1,6 +1,6 @@
 # Hi, I'm Anukul Kumar 👋
- [LinkedIn](https://linkedin.com/in/anukulkumar)
- [Email](mailto:anukul6565@gmail.com)
+ [LinkedIn](https://linkedin.com/in/anukulkumar) -
+ [Email](mailto:anukul6565@gmail.com) -
  [Leetcode](https://leetcode.com/u/anukulsahu/)
 ## About Me
 - 🎓 MCA Graduate from Banaras Hindu University (2024)
