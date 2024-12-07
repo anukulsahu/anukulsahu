@@ -1,4 +1,4 @@
-# Hi, I'm Anukul Kumar 👋
+# Hi, I'm Anukul 👋
  [LinkedIn](https://linkedin.com/in/anukulkumar) -
  [Email](mailto:anukul6565@gmail.com) -
  [Leetcode](https://leetcode.com/u/anukulsahu/)
