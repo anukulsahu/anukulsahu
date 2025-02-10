@@ -5,7 +5,7 @@
 ## WhoAmI
 - 🎓 MCA Graduate from Banaras Hindu University (2024)
 - 💻 Full-stack Developer | Proficient in Java, Python, and Web Development
-- 🌱 Currently learning Django framework of Python
+- 🌱 Skilled in Django and FastApi framework of python
 - 🔍 Looking for opportunities in software development
 
 
